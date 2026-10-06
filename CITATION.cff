@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Verification code for: Asymptotic transfer, variances and limit laws for Aldous's beta-splitting trees"
+authors:
+  - family-names: Song
+    given-names: Hael
+    affiliation: Korea University
+version: 1.0.0
+license: MIT
