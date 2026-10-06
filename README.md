@@ -1,4 +1,4 @@
-# Supplementary code: Asymptotic transfer, variances and limit laws for Aldous's beta-splitting trees
+# Supplementary code: Transfer theorems and the phase diagram of limit laws for Aldous's beta-splitting trees
 
 Python 3 with numpy, scipy, mpmath (`pip install numpy scipy mpmath`). Run scripts from their own folder.
 
@@ -7,6 +7,6 @@ Python 3 with numpy, scipy, mpmath (`pip install numpy scipy mpmath`). Run scrip
 - applications/   constants of the applications section (Sackin, Colless, cophenetic, quadratic Colless, cherries); phi_check.py checks phi_beta closed forms
 - second_order/moments.py   exact recurrences for central moments 2-4 (writes moments_*.npz); limits.py limit-moment recursions; second_order_check.py second-order transfer checks; mc.py Monte Carlo; summary_table.py tables of the paper
 
-Paper: H. Song, *Asymptotic transfer, variances and limit laws for Aldous's beta-splitting trees* (2026), arXiv link to be added.
+Paper: H. Song, *Transfer theorems and the phase diagram of limit laws for Aldous's beta-splitting trees* (2026), arXiv link to be added.
 
 License: MIT.
