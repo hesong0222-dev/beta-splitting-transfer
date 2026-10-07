@@ -1,5 +1,5 @@
 {
-  "title": "Verification code for: Transfer theorems and the phase diagram of limit laws for Aldous's beta-splitting trees",
+  "title": "Verification code for: Asymptotic transfer, variances and limit laws for Aldous's beta-splitting trees",
   "creators": [{"name": "Song, Hael", "affiliation": "Korea University"}],
   "description": "Python scripts (exact recurrences, numerical fits, Monte Carlo) verifying the asymptotic transfer theorems, variances and limit laws for additive shape parameters under Aldous's beta-splitting model.",
   "license": "MIT",
